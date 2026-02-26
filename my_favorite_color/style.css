@@ -6,12 +6,20 @@ html{
 body {
     background-color: rgb(93, 147, 197);
     color: rgb(183, 215, 245); 
-    font-family: verdana;
 }
 /* change heading font color*/
 h1{
-    color:white;
+    color:rgb(23, 66, 100);
+    font-family:'Times New Roman';
 }
 h4{
+    color:rgb(255, 255, 255);
+    font-family:verdana
+}
+h3{
+    font-family:'Courier New', Courier, monospace;
+}
+p{
     color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
