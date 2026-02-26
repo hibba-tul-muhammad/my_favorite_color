@@ -1,0 +1,17 @@
+/* set page background and fonts*/
+html{
+    height: 100%;
+    width: 100%;
+}
+body {
+    background-color: rgb(93, 147, 197);
+    color: rgb(183, 215, 245); 
+    font-family: verdana;
+}
+/* change heading font color*/
+h1{
+    color:white;
+}
+h4{
+    color:white;
+}
